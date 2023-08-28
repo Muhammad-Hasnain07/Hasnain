@@ -1,0 +1,138 @@
+.cloud-top {
+        background-color: #E4F9F5;
+        position: relative;
+        padding-top: 100px;
+}
+div {
+    display: block;
+}
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+.cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+}
+
+body {
+ color: #40514E;
+ margin: 0;
+ text-align: center;
+ font-family:'merriweather',serif ;
+}
+
+div {
+    display: block;
+}
+
+body {
+    color: #40514E;
+ margin: 0;
+ text-align: center;
+ font-family:'merriweather',serif ;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+body {
+    color: #40514E;
+    text-align: center;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h2 {
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.cloud-bottom {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+ 
+
+h2  {
+    color: #66BFBF;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.my-pic {
+    width: 200px;
+}
+
+.self {
+    width: 30%;
+    margin: auto;
+    color: #40514E;
+    font-family:'Merriweather', serif;
+    line-height: 2;
+    text-align: center;
+}
+
+.link {
+     background-color: #66BFBF;
+     width: 10%;
+     margin-left: 45%;
+     font-size: 20px;
+}
+.links {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+div{
+    display: block;
+}
+body{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+a {
+    color: #ffff;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
